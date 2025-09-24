@@ -24,6 +24,13 @@ const Footer = () => {
             <a className="link link-hover">Privacy policy</a>
             <a className="link link-hover">Cookie policy</a>
           </nav>
+          <nav>
+            <h6 className="footer-title">Contect</h6>
+            <a className="link link-hover">WhatApps</a>
+            <a className="link link-hover">Facebook</a>
+            <a className="link link-hover">Instragram</a>
+            <a className="link link-hover">E-mail</a>
+          </nav>
         </footer>
       </div>
     );
